@@ -1,0 +1,1 @@
+insert into library values (1,'abc,xyz','author')
